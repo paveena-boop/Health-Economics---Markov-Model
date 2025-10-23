@@ -1,4 +1,4 @@
-# Health-Economics projects
+# Health-Economics Project
 Excel-based Markov model simulating disease progression and evaluating treatment cost-effectiveness. Includes transition probability matrix, state costs and utilities, discounting, and ICER calculation for health economic evaluation.
 
 # 🩺 Markov Model for Health Economic Evaluation (Excel)
@@ -54,6 +54,6 @@ Discounting: Applied at 3.5% annually to both costs and health outcomes
 - Clear documentation and model transparency
 
 
-References & Learning Resources
+## References & Learning Resources
 
 YouTube Tutorial: “Markov Models for Health Economic Evaluation in Excel” by Health Economics and Outcomes Research 
